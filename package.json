@@ -1,0 +1,24 @@
+{
+  "name": "deep-assert",
+  "version": "0.0.1",
+  "description": "i like recursive things",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:logie17/deep-assert.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "0.9.0"
+  },
+  "keywords": [
+    "test",
+    "deep"
+  ],
+  "author": "Logan Bell",
+  "license": "MIT"
+}
